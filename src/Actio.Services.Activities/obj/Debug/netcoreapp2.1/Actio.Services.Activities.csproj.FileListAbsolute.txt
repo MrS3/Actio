@@ -1,0 +1,17 @@
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.1/Actio.Services.Activities.deps.json
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.1/Actio.Services.Activities.runtimeconfig.json
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.1/Actio.Services.Activities.runtimeconfig.dev.json
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.1/Actio.Services.Activities.dll
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.1/Actio.Services.Activities.pdb
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.1/Actio.Common.dll
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.1/Actio.Common.pdb
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.1/Actio.Services.Activities.csprojAssemblyReference.cache
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.1/Actio.Services.Activities.csproj.CoreCompileInputs.cache
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.1/Actio.Services.Activities.RazorAssemblyInfo.cache
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.1/Actio.Services.Activities.RazorAssemblyInfo.cs
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.1/Actio.Services.Activities.AssemblyInfoInputs.cache
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.1/Actio.Services.Activities.AssemblyInfo.cs
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.1/Actio.Services.Activities.RazorTargetAssemblyInfo.cache
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.1/Actio.Services.Activities.csproj.CopyComplete
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.1/Actio.Services.Activities.dll
+/Users/piotrturlej/Desktop/Projects/Courses/Microservices/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.1/Actio.Services.Activities.pdb
