@@ -2,8 +2,8 @@ using System;
 
 namespace Actio.Common.Events
 {
-    public interface IAuthenticatedEven: IEvent
+    public interface IAuthenticatedEvent: IEvent
     {
-        Guid UserId { get; set; }
+        Guid UserId { get; }
     }
 }
